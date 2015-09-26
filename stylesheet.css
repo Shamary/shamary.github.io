@@ -13,6 +13,10 @@ span{
 body{
     
     background-color:white;
+    
+    left:30%;
+    
+    position:absolute;
 }
 
 hr{
